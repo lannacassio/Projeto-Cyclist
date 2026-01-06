@@ -21,7 +21,7 @@ Autor: Cássio Lanna
 
 ## Introdução
 
-Este estudo de caso foi elaborado pela Google em parceria com a Coursera, como projeto final para obtenção do [Certificado Profissional Google Data Analytics](https://www.coursera.org/professional-certificates/analise-de-dados-do-google). O cenário consiste na análise dos dados de demanda da empresa de compartilhamento de bicicletas Cyclistic.
+Este estudo de caso foi elaborado pela Google. O cenário consiste na análise dos dados de demanda da empresa de compartilhamento de bicicletas Cyclistic.
 
 A empresa oferta seu serviço de aluguel de bicicletas de duas formas: passes individuais chamados de ciclistas "casuais" e assinaturas anuais chamadas de ciclistas "membros". A empresa conta com  aproximadamente 6.000 bicicletas que circulam por meio de 600 estações nas ciclovias da cidade de Chicago, localizada no estado de Illinois, Estados Unidos.
 
